@@ -18,7 +18,6 @@ Now we Install Apache web server:
 
 sudo yum install -y httpd
 
-Please follow above instruction to use my application
 
 Start the Apache web server using following command:
 
@@ -28,3 +27,6 @@ sudo systemctl start httpd
 Configure the web server to start with each system boot using following command:
 
 sudo systemctl enable httpd
+
+
+Please follow the above instructions to use my application 
