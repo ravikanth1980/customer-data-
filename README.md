@@ -18,6 +18,7 @@ Now we Install Apache web server:
 
 sudo yum install -y httpd
 
+Please follow above instruction to use my application
 
 Start the Apache web server using following command:
 
